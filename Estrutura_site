@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Semântico</title>
+    <link rel="stylesheet" href="css/estilo.css"> <!--Ta puxando meu css do estilo.css-->
+</head>
+
+<body>
+    <!--TOPO-->
+    <header class="topo">
+        <h1> <img src="imgs_/template.jpg" - Rede Nacional de Observação e Monitoramento Oceânico </h1>
+
+            <div class="container">
+
+            </div>
+    </header>
+
+    <!--MINHAS COLUNAS DE NAVEGAÇÃO = NAV-->
+
+    <nav class="menu">
+        <a href="index.html">HOME</a>
+        <a href="login_usuario.html">LOGIN</a><!--EM CONSTRUÇÃO-->
+        <a href="dados_download.html">DADOS</a><!--EM CONSTRUÇÃO-->
+        <a href="index.html">NOTÍCIAS</a><!--EM CONSTRUÇÃO-->
+        <a href="index.html">EQUIPE</a><!--EM CONSTRUÇÃO-->
+        <a href="index.html">CONTATO</a><!--EM CONSTRUÇÃO-->
+    </nav>
+
+    <section class="coluna-50 text_a"><!--50% da tela-->
+        <h1>Mapa Interativo:</h1>
+        <p>
+        </p>
+    </section>
+
+    <section class="coluna-50 text_a">
+        <h2>Sobre o projeto ReNOMO:</h2>
+        <p class="borda">Projetos de sistemas de observação e monitoramento oceânico relacionados ao <b>Sistema Global
+                de Observação
+                dos
+                Oceanos Global – Brasil <a href="http://www.goosbrasil.org/" target="_blank">(GOOS-BR)</a></b>.
+            <br><br>A
+            Rede tem
+            entre suas atividades a <u>coleta e o controle de
+                qualidade
+                de dados meteo-oceanográficos</u> oriundos de plataformas locais e remotas. Além disso, a Rede será
+            responsável pela
+            distribuição gratuita de dados e produtos oceanográficos nacional e internacionalmente.
+            <br><br>Diversos programas de observação e monitoramento do Oceano Atlântico Sul e Tropical do
+            âmbito do programa
+            Sistema Global de Observação dos Oceanos Global – Brasil (GOOS-BR) e de outras iniciativas fazem parte da
+            Rede.
+            <br><br>Participam da ReNOMO os seguintes sistemas de observação e monitoramento oceânico: <b>PIRATA,
+                PNBOIA,
+                GLOSS-Brazil,
+                MOVAR, REMO, SiMCosta, Estações Meteorológicas Costeiras, MePrO, Projeto Azul e Eco Veleiro</b>,
+            contando
+            com mais
+            de 100 pesquisadores de 31 instituições brasileiras.
+        </p>
+    </section>
+    <hr>
+
+
+
+
+</body>
+
+</html>
